@@ -1,5 +1,5 @@
 <p align="center">
-<img height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Imanka Silva</h1>

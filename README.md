@@ -22,13 +22,14 @@
 - ⚡ Fun fact **Coffee + Code = My perfect combo ☕💻**
 
 <br>
-
+---
   
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/tharusha imanka silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha imanka silva" height="40" width="50" /></a>
 <a href="https://fb.com/tharusha imanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha imanka" height="40" width="50" /></a>
+<a href="https://instagram.com/tharusha_imanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharusha_imanka" height="40" width="50" /></a>
 <a href="https://instagram.com/tharusha_imanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharusha_imanka" height="40" width="50" /></a>
 </p>
 

@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/tharusha imanka silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha imanka silva" height="40" width="50" /></a>
 <a href="https://fb.com/tharusha imanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha imanka" height="40" width="50" /></a>
 <a href="https://instagram.com/tharusha_imanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharusha_imanka" height="40" width="50" /></a>
-<a href="https://www.youtube.com/c/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="donpablonow" height="40" width="50" /></a>
+<a href="https://www.youtube.com/c/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="donpablonow" height="50" width="60" /></a>
 
 </p>
 

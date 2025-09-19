@@ -2,7 +2,7 @@
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Imanka Silva</h1>
+<h1 align="center">Hih 👋, I'm Imanka Silva</h1>
 <h3 align="center">BICT undergraduate + MERN stack full-stack web developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imanka-dev&label=Profile%20views&color=0e75b6&style=flat" alt="imanka-dev" /> </p>
 

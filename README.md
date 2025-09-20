@@ -8,7 +8,7 @@
 
 <br>
 
-
+---
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
@@ -23,7 +23,7 @@
 
 <br>
 
-  
+---
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **imankasilvatharusha@gmail.com**
 
-- ⚡ Fun fact **Coffee + Code = My perfect combo ☕💻**
+
 
 <br>
 

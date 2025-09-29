@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Imanka Silva</h1>
-<h3 align="center">BICT undergraduate + MERN stack full-stack web developer from Sri Lanka</h3>
+<h3 align="center">IT undergraduate + MERN stack full-stack web developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imanka-dev&label=Profile%20views&color=0e75b6&style=flat" alt="imanka-dev" /> </p>
 
 <br>

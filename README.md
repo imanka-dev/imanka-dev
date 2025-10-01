@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **imankasilvatharusha@gmail.com**
 
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live. 
+
 
 
 <br>

@@ -47,7 +47,7 @@
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=imanka-dev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanka-dev&theme=tokyonight) 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=imanka-dev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanka-dev&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="imanka-dev" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imanka-dev&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="imanka-dev" />
 
 
 ---
